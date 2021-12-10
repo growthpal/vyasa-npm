@@ -1,6 +1,6 @@
 {
   "name": "@growthpal/vyasa",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Vyasa is our in house logging tool.",
   "main": "index.js",
   "scripts": {

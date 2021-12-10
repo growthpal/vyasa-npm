@@ -1,4 +1,4 @@
-[![1.0.1](https://badge.fury.io/js/angular2-expandable-list.svg)](https://badge.fury.io/js/angular2-expandable-list)
+[![npm version](https://badge.fury.io/js/@growthpal%2Fvyasa.svg)](https://badge.fury.io/js/@growthpal%2Fvyasa)
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 
 # VYASA
